@@ -1,0 +1,9 @@
+pymupdf
+geopy
+pytz
+fpdf
+swisseph
+openai
+langchain
+chromadb
+unsloth
